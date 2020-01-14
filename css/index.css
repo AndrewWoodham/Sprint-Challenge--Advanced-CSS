@@ -274,6 +274,10 @@ footer {
   margin: 2% 10% 2% 10%;
   font-size: 1.7rem;
 }
+.home .walk .walk-text .btn:hover {
+  color: black;
+  background: white;
+}
 @media (max-width: 500px) {
   .home .walk .walk-text .btn {
     padding: 5%;
